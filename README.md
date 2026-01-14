@@ -1,4 +1,4 @@
-# IWT-LAB2
+# IWT-LAB
 Name-Soumyashree Panda  
 <br>
 SIC-24bcsb09  
