@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Q3</title>
+<script language="JavaScript">
+let n=parseInt(prompt("Enter  a number"));
+let rev=0,rem;
+let num=n;
+do
+{
+rem=n%10;
+rev=(rev*10)+rem;
+n=n/10;
+}
+if(num==rev)
+document.write("Palindrome no.");
+else
+document.write("Not a Palindrome number");
+</script>
+</head>
+<body bgcolor="pink" text="black">
+</body>
+</html>
